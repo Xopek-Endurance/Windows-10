@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="on-screen-keyboard-disabled-symbolic.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs9" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="972"
+     inkscape:window-height="540"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="-5.3692176"
+     inkscape:cy="8.2455842"
+     inkscape:window-x="7"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" /><metadata
+     id="metadata90"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Gnome Symbolic Icon Theme</dc:title></cc:Work></rdf:RDF></metadata><title
+     id="title9167">Gnome Symbolic Icon Theme</title><image
+     width="15"
+     height="15"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABD0lEQVR42t2TO0/CYBiF+T1qjAgo UitBwRD+mathcXB1BqPxAoK2tLXl5vV3MHY89ikhn2Eg0U2bvHmW7zznLM1k/v7XPL+YJadf3gyB oumnwsmHgvG7/NGbvOGr3OhFTjjVYzBR3x+r543UHQzVcSPdOaFun55TSSogHMdxeoQhYUgYEoaE 4U0/MAKaT07P0qMZ0gxphjRDmuF1zzcCZmMlDAlDwpAwJLxYevXgGQGzsTIbMhsyGzIbMnux9LI7 MILl5lVHM2x3XCNYbl51NMPWvTMXrG3ltJ7Na2O7oM1CUdmipZxV1s7BofYqNVnVuuzjhuxaQ6Wj unbLVeX3K8k7O3lfmgu+309l/+Bf+gIAd83dZexFEwAAAABJRU5ErkJggg== "
+     id="image3346"
+     x="0.56779647"
+     y="-0.51694924" /><path
+     inkscape:connector-curvature="0"
+     id="path3482-5"
+     d="m 12.406783,8.8728812 c -1.933003,0 -3.5000042,1.5670028 -3.5000042,3.5000028 0,1.932999 1.5670012,3.499999 3.5000042,3.499999 1.933,0 3.5,-1.567 3.5,-3.499999 0,-1.933 -1.567,-3.5000028 -3.5,-3.5000028 z M 9.9067778,11.841684 h 5.0000052 v 1.0312 H 9.9067778 v -1.0312 z"
+     style="color:#bebebe;fill:#ef2929"
+     class="error" /></svg>
